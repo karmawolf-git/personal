@@ -22,8 +22,10 @@ function getSchedulesForDay(schedules: Schedule[], date: Date): Schedule[] {
   return schedules.filter(s => {
     if (s.date === dateStr) return true;
     if (s.repeat === 'daily') return true;
-    if (s.repeat === 'weekly' && new Date(s.date).getDay() === date.getDay()) return true;
-    if (s.repeat === 'monthly' && new Date(s.date).getDate() === date.getDate()) return true;
+    const [y, m, d] = s.date.split('-').map(Number);
+    const schedDate = new Date(y, m - 1, d);
+    if (s.repeat === 'weekly' && schedDate.getDay() === date.getDay()) return true;
+    if (s.repeat === 'monthly' && schedDate.getDate() === date.getDate()) return true;
     return false;
   });
 }
