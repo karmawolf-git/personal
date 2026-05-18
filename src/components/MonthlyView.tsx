@@ -1,1 +1,130 @@
-aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCc7CmltcG9ydCB7IENoZXZyb25MZWZ0LCBDaGV2cm9uUmlnaHQsIFBsdXMgfSBmcm9tICdsdWNpZGUtcmVhY3QnOwppbXBvcnQgdHlwZSB7IFNjaGVkdWxlIH0gZnJvbSAnLi4vdHlwZXMnOwppbXBvcnQgewogIGdldE1vbnRoRGF5cywgZm9ybWF0RGF0ZSwgaXNTYW1lTW9udGgsIGlzVG9kYXksIHRvRGF0ZVN0cmluZywKICBuZXh0TW9udGgsIHByZXZNb250aCwKfSBmcm9tICcuLi91dGlscy9kYXRlVXRpbHMnOwppbXBvcnQgU2NoZWR1bGVNb2RhbCBmcm9tICcuL1NjaGVkdWxlTW9kYWwnOwoKY29uc3QgREFZX05BTUVTID0gWyfsnKInLCAn7JqpJywgJ+yKpCcsICfsiKwnLCAn66qoJywgJ+uqnCcsICd0byddOwoKaW50ZXJmYWNlIFByb3BzIHsKICBzY2hlZHVsZXM6IFNjaGVkdWxlW107CiAgb25BZGQ6IChzOiBPbWl0PFNjaGVkdWxlLCAnaWQnIHwgJ2NyZWF0ZWRBdCc+KSA9PiB2b2lkOwogIG9uVXBkYXRlOiAoaWQ6IHN0cmluZywgczogUGFydGlhbDxTY2hlZHVsZT4pID0+IHZvaWQ7CiAgb25EZWxldGU6IChpZDogc3RyaW5nKSA9PiB2b2lkOwp9CgpmdW5jdGlvbiBnZXRTY2hlZHVsZXNGb3JEYXkoc2NoZWR1bGVzOiBTY2hlZHVsZVtdLCBkYXRlOiBEYXRlKTogU2NoZWR1bGVbXSB7CiAgY29uc3QgZGF0ZVN0ciA9IHRvRGF0ZVN0cmluZyhkYXRlKTsKICByZXR1cm4gc2NoZWR1bGVzLmZpbHRlcihzID0+IHsKICAgIGlmIChzLmRhdGUgPT09IGRhdGVTdHIpIHJldHVybiB0cnVlOwogICAgaWYgKHMucmVwZWF0ID09PSAnZGFpbHknKSByZXR1cm4gdHJ1ZTsKICAgIGNvbnN0IFt5LCBtLCBkXSA9IHMuZGF0ZS5zcGxpdCgnLScpLm1hcChOdW1iZXIpOwogICAgY29uc3Qgc2NoZWREYXRlID0gbmV3IERhdGUoeSwgbSAtIDEsIGQpOwogICAgaWYgKHMucmVwZWF0ID09PSAnd2Vla2x5JyAmJiBzY2hlZERhdGUuZ2V0RGF5KCkgPT09IGRhdGUuZ2V0RGF5KCkpIHJldHVybiB0cnVlOwogICAgaWYgKHMucmVwZWF0ID09PSAnbW9udGhseScgJiYgc2NoZWREYXRlLmdldERhdGUoKSA9PT0gZGF0ZS5nZXREYXRlKCkpIHJldHVybiB0cnVlOwogICAgcmV0dXJuIGZhbHNlOwogIH0pOwp9CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBNb250aGx5Vmlldyh7IHNjaGVkdWxlcywgb25BZGQsIG9uVXBkYXRlLCBvbkRlbGV0ZSB9OiBQcm9wcykgewogIGNvbnN0IFtjdXJyZW50LCBzZXRDdXJyZW50XSA9IHVzZVN0YXRlKG5ldyBEYXRlKCkpOwogIGNvbnN0IFttb2RhbERhdGUsIHNldE1vZGFsRGF0ZV0gPSB1c2VTdGF0ZTxzdHJpbmcgfCBudWxsPihudWxsKTsKICBjb25zdCBbZWRpdFNjaGVkdWxlLCBzZXRFZGl0U2NoZWR1bGVdID0gdXNlU3RhdGU8U2NoZWR1bGUgfCBudWxsPihudWxsKTsKCiAgY29uc3QgZGF5cyA9IGdldE1vbnRoRGF5cyhjdXJyZW50KTsKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtY29sIGdhcC00Ij4KICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiI+CiAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXsoKSA9PiBzZXRDdXJyZW50KHByZXZNb250aChjdXJyZW50KSl9IGNsYXNzTmFtZT0icC0yIGhvdmVyOmJnLXNsYXRlLTEwMCByb3VuZGVkLWxnIHRyYW5zaXRpb24tY29sb3JzIj4KICAgICAgICAgIDxDaGV2cm9uTGVmdCBzaXplPXsyMH0gY2xhc3NOYW1lPSJ0ZXh0LXNsYXRlLTYwMCIgLz4KICAgICAgICA8L2J1dHRvbj4KICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LXhsIGZvbnQtYm9sZCB0ZXh0LXNsYXRlLTgwMCI+CiAgICAgICAgICB7Zm9ybWF0RGF0ZShjdXJyZW50LCAneXl5eeW5tCBN7JegJyl9CiAgICAgICAgPC9oMj4KICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9eygpID0+IHNldEN1cnJlbnQobmV4dE1vbnRoKGN1cnJlbnQpKX0gY2xhc3NOYW1lPSJwLTIgaG92ZXI6Ymctc2xhdGUtMTAwIHJvdW5kZWQtbGcgdHJhbnNpdGlvbi1jb2xvcnMiPgogICAgICAgICAgPENoZXZyb25SaWdodCBzaXplPXsyMH0gY2xhc3NOYW1lPSJ0ZXh0LXNsYXRlLTYwMCIgLz4KICAgICAgICA8L2J1dHRvbj4KICAgICAgPC9kaXY+CgogICAgICA8ZGl2IGNsYXNzTmFtZT0iYmctd2hpdGUgcm91bmRlZC0yeGwgc2hhZG93LXNtIGJvcmRlciBib3JkZXItc2xhdGUtMTAwIG92ZXJmbG93LWhpZGRlbiI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTciPgogICAgICAgICAge0RBWV9OQU1FUy5tYXAoKGQsIGkpID0+ICgKICAgICAgICAgICAgPGRpdiBrZXk9e2R9IGNsYXNzTmFtZT17YHB5LTMgdGV4dC1jZW50ZXIgdGV4dC1zbSBmb250LXNlbWlib2xkICR7aSA9PT0gMCA/ICd0ZXh0LXJlZC01MDAnIDogaSA9PT0gNiA/ICd0ZXh0LWJsdWUtNTAwJyA6ICd0ZXh0LXNsYXRlLTUwMCd9YH0+CiAgICAgICAgICAgICAge2R9CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgKSl9CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTcgYm9yZGVyLXQgYm9yZGVyLXNsYXRlLTEwMCI+CiAgICAgICAgICB7ZGF5cy5tYXAoKGRheSwgaWR4KSA9PiB7CiAgICAgICAgICAgIGNvbnN0IGluTW9udGggPSBpc1NhbWVNb250aChkYXksIGN1cnJlbnQpOwogICAgICAgICAgICBjb25zdCB0b2RheSA9IGlzVG9kYXkoZGF5KTsKICAgICAgICAgICAgY29uc3QgZGF5U2NoZWR1bGVzID0gZ2V0U2NoZWR1bGVzRm9yRGF5KHNjaGVkdWxlcywgZGF5KTsKICAgICAgICAgICAgY29uc3QgaXNXZWVrZW5kMCA9IGlkeCAlIDcgPT09IDA7CiAgICAgICAgICAgIGNvbnN0IGlzV2Vla2VuZDYgPSBpZHggJSA3ID09PSA2OwoKICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAgICBrZXk9e2RheS50b0lTT1N0cmluZygpfQogICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gc2V0TW9kYWxEYXRlKHRvRGF0ZVN0cmluZyhkYXkpKX0KICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17YG1pbi1oLVs5MHB4XSBwLTEuNSBib3JkZXItYiBib3JkZXItciBib3JkZXItc2xhdGUtMTAwIGN1cnNvci1wb2ludGVyIGhvdmVyOmJnLXNsYXRlLTUwIHRyYW5zaXRpb24tY29sb3JzICR7IWluTW9udGggPyAnYmctc2xhdGUtNTAvNTAnIDogJyd9YH0KICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIG1iLTEiPgogICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9eGB0ZXh0LXNtIGZvbnQtbWVkaXVtIHctNyBoLTcgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgcm91bmRlZC1mdWxsCiAgICAgICAgICAgICAgICAgICAgJHt0b2RheSA/ICdiZy1ibHVlLTUwMCB0ZXh0LXdoaXRlJyA6IGlzV2Vla2VuZDAgPyAndGV4dC1yZWQtNDAwJyA6IGlzV2Vla2VuZDYgPyAndGV4dC1ibHVlLTQwMCcgOiAndGV4dC1zbGF0ZS03MDAifQogICAgICAgICAgICAgICAgICAgICR7IWluTW9udGggPyAnb3BhY2l0eS00MCcgOiAnJ30KICAgICAgICAgICAgICAgICAgYH0+CiAgICAgICAgICAgICAgICAgICAge2RheS5nZXREYXRlKCl9CiAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAge2luTW9udGggJiYgKAogICAgICAgICAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9e2UgPT4geyBlLnN0b3BQcm9wYWdhdGlvbigpOyBzZXRNb2RhbERhdGUodG9EYXRlU3RyaW5nKGRheSkpOyB9fQogICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJvcGFjaXR5LTAgZ3JvdXAtaG92ZXI6b3BhY2l0eS0xMDAgaG92ZXI6b3BhY2l0eS0xMDAgcC0wLjUgaG92ZXI6Ymctc2xhdGUtMjAwIHJvdW5kZWQgdHJhbnNpdGlvbi1hbGwiCiAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgPFBsdXMgc2l6ZT17MTJ9IGNsYXNzTmFtZT0idGV4dC1zbGF0ZS00MDAiIC8+CiAgICAgICAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTAuNSI+CiAgICAgICAgICAgICAgICAgIHtkYXlTY2hlZHVsZXMuc2xpY2UoMCwgMykubWFwKHMgPT4gKAogICAgICAgICAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICAgICAgICAgIGtleT17cy5pZH0KICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9e2UgPT4geyBlLnN0b3BQcm9wYWdhdGlvbigpOyBzZXRFZGl0U2NoZWR1bGUocyk7IH19CiAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InRleHQteHMgcHgtMS41IHB5LTAuNSByb3VuZGVkIHRydW5jYXRlIHRleHQtd2hpdGUgZm9udC1tZWRpdW0gY3Vyc29yLXBvaW50ZXIgaG92ZXI6b3BhY2l0eS04MCIKICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7IGJhY2tncm91bmRDb2xvcjogcy5jb2xvciB9fQogICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgIHtzLnN0YXJ0VGltZSAmJiA8c3BhbiBjbGFzc05hbWU9Im9wYWNpdHktODAgbXItMSI+e3Muc3RhcnRUaW1lfTwvc3Bhbj59CiAgICAgICAgICAgICAgICAgICAgICB7cy50aXRsZX0KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgICAgICAgIHtkYXlTY2hlZHVsZXMubGVuZ3RoID4gMyAmJiAoCiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQteHMgdGV4dC1zbGF0ZS00MDAgcGwtMSI+Kntk YXlTY2hlZHVsZXMubGVuZ3RoIC0gM33reH0gw68
+import { useState } from 'react';
+import { ChevronLeft, ChevronRight, Plus } from 'lucide-react';
+import type { Schedule } from '../types';
+import {
+  getMonthDays, formatDate, isSameMonth, isToday, toDateString,
+  nextMonth, prevMonth,
+} from '../utils/dateUtils';
+import ScheduleModal from './ScheduleModal';
+
+const DAY_NAMES = ['일', '월', '화', '수', '목', '금', '토'];
+
+interface Props {
+  schedules: Schedule[];
+  onAdd: (s: Omit<Schedule, 'id' | 'createdAt'>) => void;
+  onUpdate: (id: string, s: Partial<Schedule>) => void;
+  onDelete: (id: string) => void;
+}
+
+function getSchedulesForDay(schedules: Schedule[], date: Date): Schedule[] {
+  const dateStr = toDateString(date);
+  return schedules.filter(s => {
+    if (s.date === dateStr) return true;
+    if (s.repeat === 'daily') return true;
+    const [y, m, d] = s.date.split('-').map(Number);
+    const schedDate = new Date(y, m - 1, d);
+    if (s.repeat === 'weekly' && schedDate.getDay() === date.getDay()) return true;
+    if (s.repeat === 'monthly' && schedDate.getDate() === date.getDate()) return true;
+    return false;
+  });
+}
+
+export default function MonthlyView({ schedules, onAdd, onUpdate, onDelete }: Props) {
+  const [current, setCurrent] = useState(new Date());
+  const [modalDate, setModalDate] = useState<string | null>(null);
+  const [editSchedule, setEditSchedule] = useState<Schedule | null>(null);
+
+  const days = getMonthDays(current);
+
+  return (
+    <div className="flex flex-col gap-4">
+      <div className="flex items-center justify-between">
+        <button onClick={() => setCurrent(prevMonth(current))} className="p-2 hover:bg-slate-100 rounded-lg transition-colors">
+          <ChevronLeft size={20} className="text-slate-600" />
+        </button>
+        <h2 className="text-xl font-bold text-slate-800">
+          {formatDate(current, 'yyyy년 M월')}
+        </h2>
+        <button onClick={() => setCurrent(nextMonth(current))} className="p-2 hover:bg-slate-100 rounded-lg transition-colors">
+          <ChevronRight size={20} className="text-slate-600" />
+        </button>
+      </div>
+
+      <div className="bg-white rounded-2xl shadow-sm border border-slate-100 overflow-hidden">
+        <div className="grid grid-cols-7">
+          {DAY_NAMES.map((d, i) => (
+            <div key={d} className={`py-3 text-center text-sm font-semibold ${i === 0 ? 'text-red-500' : i === 6 ? 'text-blue-500' : 'text-slate-500'}`}>
+              {d}
+            </div>
+          ))}
+        </div>
+        <div className="grid grid-cols-7 border-t border-slate-100">
+          {days.map((day, idx) => {
+            const inMonth = isSameMonth(day, current);
+            const today = isToday(day);
+            const daySchedules = getSchedulesForDay(schedules, day);
+            const isWeekend0 = idx % 7 === 0;
+            const isWeekend6 = idx % 7 === 6;
+
+            return (
+              <div
+                key={day.toISOString()}
+                onClick={() => setModalDate(toDateString(day))}
+                className={`min-h-[90px] p-1.5 border-b border-r border-slate-100 cursor-pointer hover:bg-slate-50 transition-colors ${!inMonth ? 'bg-slate-50/50' : ''}`}
+              >
+                <div className="flex items-center justify-between mb-1">
+                  <span className={`text-sm font-medium w-7 h-7 flex items-center justify-center rounded-full
+                    ${today ? 'bg-blue-500 text-white' : isWeekend0 ? 'text-red-400' : isWeekend6 ? 'text-blue-400' : 'text-slate-700'}
+                    ${!inMonth ? 'opacity-40' : ''}
+                  `}>
+                    {day.getDate()}
+                  </span>
+                  {inMonth && (
+                    <button
+                      onClick={e => { e.stopPropagation(); setModalDate(toDateString(day)); }}
+                      className="opacity-0 group-hover:opacity-100 hover:opacity-100 p-0.5 hover:bg-slate-200 rounded transition-all"
+                    >
+                      <Plus size={12} className="text-slate-400" />
+                    </button>
+                  )}
+                </div>
+                <div className="space-y-0.5">
+                  {daySchedules.slice(0, 3).map(s => (
+                    <div
+                      key={s.id}
+                      onClick={e => { e.stopPropagation(); setEditSchedule(s); }}
+                      className="text-xs px-1.5 py-0.5 rounded truncate text-white font-medium cursor-pointer hover:opacity-80"
+                      style={{ backgroundColor: s.color }}
+                    >
+                      {s.startTime && <span className="opacity-80 mr-1">{s.startTime}</span>}
+                      {s.title}
+                    </div>
+                  ))}
+                  {daySchedules.length > 3 && (
+                    <div className="text-xs text-slate-400 pl-1">+{daySchedules.length - 3}개 더</div>
+                  )}
+                </div>
+              </div>
+            );
+          })}
+        </div>
+      </div>
+
+      {modalDate && !editSchedule && (
+        <ScheduleModal
+          date={modalDate}
+          onSave={onAdd}
+          onClose={() => setModalDate(null)}
+        />
+      )}
+      {editSchedule && (
+        <ScheduleModal
+          schedule={editSchedule}
+          onSave={data => onUpdate(editSchedule.id, data)}
+          onDelete={() => onDelete(editSchedule.id)}
+          onClose={() => setEditSchedule(null)}
+        />
+      )}
+    </div>
+  );
+}
